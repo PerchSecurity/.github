@@ -1,2 +1,3 @@
 # .github
- Shared files for GitHub configuration
+
+Shared files for GitHub configuration
