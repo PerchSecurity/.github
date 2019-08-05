@@ -1,8 +1,3 @@
-<!--
-The template is broken down into sections ( API, UI ).
-Keep the ones that are relevant and remove the rest.
--->
-
 # Description
 
 <!--
@@ -30,49 +25,5 @@ Closes #IssueNumber
 - [ ] This branch is code-complete ( no outstanding requirements or TODOs )
 - [ ] I have tested this locally ( and it works )
 - [ ] All dependencies, migrations, etc are committed
-
-<!-- API Info -->
-
-# 📡 API
-
-## Summary of API changes
-
-<!-- In plain English, summarize your work. -->
-
-- Added / Refactored / Deleted ...
-- Added / Refactored / Deleted ...
-
-## Example: Create / Read / Update / Delete
-
-```json
-GET /url HTTP/1.1
-```
-
-```json
-HTTP/1.1 200 OK
-Content-Type: application/json
-
-{}
-```
-
-<!-- END: API Info -->
-<!-- UI Info -->
-
-# 🖥️ UI
-
-## Summary of UI changes
-
-<!-- In plain English, summarize your work. -->
-
-- Added / Refactored / Deleted ...
-- Added / Refactored / Deleted ...
-
-## Preview ( GIFs if you got 'em! )
-
-<!-- GitHub allows you to add files by dragging or clicking below. -->
-
-![alt text or link](animated GIF of functionality)
-
-<!-- END: UI Info -->
 
 # 📝 Notes / known issues
