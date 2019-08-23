@@ -1,5 +1,5 @@
 name: Add Labels on Push
-on: create
+on: push
 jobs:
   add-labels:
     runs-on: ubuntu-latest
