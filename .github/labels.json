@@ -1,0 +1,77 @@
+[
+  {
+    "name": "enhancement",
+    "description": "Shiny new features or upgrades to old ones",
+    "color": "4CAF50"
+  },
+  {
+    "name": "bug",
+    "description": "Something is broken or not as expected",
+    "color": "ee0701"
+  },
+  {
+    "name": "blocked",
+    "description": "SOS! This needs attention",
+    "color": "FFC107"
+  },
+  {
+    "name": "needs discussion",
+    "description": "Outstanding details or decisions",
+    "color": "FFC107"
+  },
+  {
+    "name": "chore",
+    "description": "Technical debt, housekeeping... the fun stuff",
+    "color": "03A9F4"
+  },
+  {
+    "name": "infrastructure",
+    "description": "Requires a non-code change to the infrastructure",
+    "color": "03A9F4"
+  },
+  {
+    "name": "dependency",
+    "description": "Pull requests that update a dependency file",
+    "color": "03A9F4"
+  },
+  {
+    "name": "performance",
+    "description": "Something is not performing optimally",
+    "color": "03A9F4"
+  },
+  {
+    "name": "API",
+    "description": "Work involves the Py side of things",
+    "color": "212121"
+  },
+  {
+    "name": "UI",
+    "description": "Work involves the JS side of things",
+    "color": "212121"
+  },
+  {
+    "name": "retest",
+    "description": "Ensure the issue still exists",
+    "color": "FFC107"
+  },
+  {
+    "name": "severity:high",
+    "description": "Major functional impact, severe functional degradation",
+    "color": "ffcdd2"
+  },
+  {
+    "name": "severity:low",
+    "description": "Small impact, minor functional degradation",
+    "color": "ffcdd2"
+  },
+  {
+    "name": "severity:med",
+    "description": "Moderate functional impact, functionally working but degraded",
+    "color": "ffcdd2"
+  },
+  {
+    "name": "stale",
+    "description": "No activity in 90 days",
+    "color": "9E9E9E"
+  }
+]
