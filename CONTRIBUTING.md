@@ -4,15 +4,15 @@ Thank you for being a part of the Perch team!
 
 Here are some helpful tips for contributing to the project.
 
-## Issues ( features, bugs, etc... )
+## Stories ( features, bugs, etc... )
 
-If you'd like to request a feature / enhancement or report a bug / pain point, please use GitHub Issues.
+If you'd like to request a feature / enhancement or report a bug / pain point, please go to our [Clubhouse](https://app.clubhouse.io/perch-security).
 
-There are templates for most issues types, and a blank issue for all other feedback.
+There are templates for most story types, and a blank story for all other feedback.
 
-Before opening an issue, PLEASE look for an existing issue, open or closed, and leave a comment there instead.
+Before opening an story, PLEASE look for an existing story, open or closed, and leave a comment there instead.
 
-Once your issue is triaged, it will be tagged and commented on by the team.
+Once your story is triaged, it will be tagged and commented on by the team.
 
 ## Pull requests
 
@@ -21,11 +21,9 @@ The development team reviews all code prior to merging with Pull Requests.
 Here are some things you can do to expedite the review process:
 
 - Use the template ( so people can review quickly )
-- Tag related issues with `fixes #1234`, `closes #1234`, or `connects #1234` so Github stays up to date
+- Tag related stories with `[ch###]` so Clubhouse stays up to date
 - Include a screenshot or GIF if your work has a visual component ( so we know what it looks like )
 - Include a sample request if your work has an API component ( so we know how to use it )
-- Run the linters and automated tests before submitting ( so we don't fuss over styles )
-- Use the WIP tag if you are not ready for someone to review your work ( so we don't waste effort )
 
 ## Coding Practices
 
