@@ -6,7 +6,7 @@ A brief summary of this pull request.
 IF YOU DO NOT HAVE A STORY TO LINK THIS TO, GO FIND OR MAKE ONE NOW PLEASE
 -->
 
-[ch###]
+[ch-###]
 
 ## 🏁 Ready to merge checklist
 
